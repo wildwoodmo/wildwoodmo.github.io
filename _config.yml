@@ -23,7 +23,7 @@ author_image: "/assets/images/ChrisHammond_sq_200.jpg"
 paginate:	5
 
 url: "" # the base hostname & protocol for your site
-baseurl: ""
+baseurl: ""MeasureMeasure
 #used to display twitter cards
 twitter_handle: '@christoc'
 
