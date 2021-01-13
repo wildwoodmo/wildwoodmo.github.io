@@ -1,35 +1,56 @@
-title: WildwoodMo.com - A Wildwood Missouri Community Site.
-email: wildwoodmo@christoc.com
-description: >- # this means to ignore newlines until "baseurl:"
-  A website dedicated to information about the City of Wildwood, Missouri.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: christoc
-github_username:  wildwoodmo
-
 # Build settings
-theme: minima
-plugins:
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
+gems:
+  - jemoji
+  - jekyll-paginate
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Site settings
+title: "WildwoodMo.com - A Wildwood Missouri Community Site."
+description: > # this means to ignore newlines until "email:"
+   A website dedicated to information about the City of Wildwood, Missouri.
+
+email: wildwoodmo@christoc.com
+#blog logo
+logo: "/assets/images/wildwoodmo.png"
+float_logo: true # true, false (default)
+
+# blog cover
+cover: "/assets/images/WildwoodSign.jpg"
+
+name: 'Chris Hammond'
+author: 'Chris Hammond'
+author_image: "/assets/images/ChrisHammond_sq_200.jpg"
+
+paginate:	5
+
+url: "" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@christoc'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+#google_analytics: UA-XXXXX-X
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/christoc
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: "?text="
+    share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/christopherhammond
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: "?t=""
+#    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/wildwoodmo/
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
