@@ -1,9 +1,4 @@
-# Build settings
-gems:
-  - jemoji
-  - jekyll-paginate
-
-# Site settings
+#Site settings 
 title: "WildwoodMo.com - A Wildwood Missouri Community Site."
 description: > # this means to ignore newlines until "email:"
    A website dedicated to information about the City of Wildwood, Missouri.
@@ -23,7 +18,7 @@ author_image: "/assets/images/ChrisHammond_sq_200.jpg"
 paginate:	5
 
 url: "" # the base hostname & protocol for your site
-baseurl: ""MeasureMeasure
+baseurl: ""
 #used to display twitter cards
 twitter_handle: '@christoc'
 
@@ -38,14 +33,14 @@ social:
     url:	https://twitter.com/christoc
     desc: Follow me on twitter
     share_url: http://twitter.com/share
-    share_title: "?text="
+    share_title: ?text=
     share_link: "&amp;url="
 
 #  - icon:	facebook
 #    url:	https://facebook.com/christopherhammond
 #    desc: Connect with me facebook
 #    share_url: https://www.facebook.com/sharer.php
-#    share_title: "?t=""
+#    share_title: ?t=
 #    share_link: "&amp;u="
 
   - icon:	github
