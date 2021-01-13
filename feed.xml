@@ -1,7 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-12-06T14:02:32+00:00</updated><id>/feed.xml</id><title type="html">WildwoodMo.com - A Wildwood Missouri Community Site.</title><subtitle>A website dedicated to information about the City of Wildwood, Missouri.</subtitle><entry><title type="html">Trash Service in Wildwood, Missouri</title><link href="/2020/12/06/trash-service-in-wildwood-missouri.html" rel="alternate" type="text/html" title="Trash Service in Wildwood, Missouri" /><published>2020-12-06T14:00:09+00:00</published><updated>2020-12-06T14:00:09+00:00</updated><id>/2020/12/06/trash-service-in-wildwood-missouri</id><content type="html" xml:base="/2020/12/06/trash-service-in-wildwood-missouri.html">&lt;p&gt;Since the summer of 2019, trash service in Wildwood Missouri has been provided by Waste Connections.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WildwoodMo.com - A Wildwood Missouri Community Site.</title>
+    <description>A website dedicated to information about the City of Wildwood, Missouri.
+</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 13 Jan 2021 16:48:36 +0000</pubDate>
+    <lastBuildDate>Wed, 13 Jan 2021 16:48:36 +0000</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Trash Service in Wildwood, Missouri</title>
+        <description>&lt;p&gt;Since the summer of 2019, trash service in Wildwood Missouri has been provided by Waste Connections.&lt;/p&gt;
 
 &lt;p&gt;Both trash and recycling services are provided by Waste Connections, your pickup days will vary based on your location.&lt;/p&gt;
 
 &lt;p&gt;If you’re looking for large item pickup, for a couch, or other things, be sure to check with Waste Connections to get that scheduled.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.wasteconnectionsmo.com/&quot;&gt;Waste Connections of Missouri Website&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Since the summer of 2019, trash service in Wildwood Missouri has been provided by Waste Connections.</summary></entry><entry><title type="html">Welcome to WildwoodMo.com!</title><link href="/2020/11/16/welcome-to-wildwoodmo.html" rel="alternate" type="text/html" title="Welcome to WildwoodMo.com!" /><published>2020-11-16T18:20:09+00:00</published><updated>2020-11-16T18:20:09+00:00</updated><id>/2020/11/16/welcome-to-wildwoodmo</id><content type="html" xml:base="/2020/11/16/welcome-to-wildwoodmo.html">&lt;p&gt;Welcome to a website about the City of Wildwood, Missouri.&lt;/p&gt;</content><author><name></name></author><summary type="html">Welcome to a website about the City of Wildwood, Missouri.</summary></entry></feed>
+&lt;p&gt;&lt;a href=&quot;https://www.wasteconnectionsmo.com/&quot;&gt;Waste Connections of Missouri Website&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 06 Dec 2020 14:00:09 +0000</pubDate>
+        <link>/2020/12/06/trash-service-in-wildwood-missouri.html</link>
+        <guid isPermaLink="true">/2020/12/06/trash-service-in-wildwood-missouri.html</guid>
+        
+        <category>featured</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Welcome to WildwoodMo.com!</title>
+        <description>&lt;p&gt;Welcome to a website about the City of Wildwood, Missouri.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 Nov 2020 18:20:09 +0000</pubDate>
+        <link>/2020/11/16/welcome-to-wildwoodmo.html</link>
+        <guid isPermaLink="true">/2020/11/16/welcome-to-wildwoodmo.html</guid>
+        
+        <category>featured</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
