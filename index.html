@@ -45,7 +45,13 @@ layout: default
             </section>
             <div class="post-meta">
               <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-  <!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
+              <!--
+              <span class="post-tags-set">on {% for t in tags%}
+                <span class="post-tag-{{slug}}">{% if forloop.first == true %}
+                  {% else %}
+                    , 
+                  {% endif %}<a href="/tag/{{slug}}">{{t.name}}</a></span>{% endfor %}</span>
+                  -->
             </div>
           </div>
         </article>
@@ -67,7 +73,13 @@ layout: default
             </section>
             <div class="post-meta">
               <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-<!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
+              <!--
+              <span class="post-tags-set">on {% for t in tags%}
+                <span class="post-tag-{{slug}}">{% if forloop.first == true %}
+                  {% else %}
+                    , 
+                  {% endif %}<a href="/tag/{{slug}}">{{name}}</a></span>{% endfor %}</span>
+                  -->
             </div>
           </div>
         </article>
@@ -81,7 +93,7 @@ layout: default
       <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
       {% if paginator.previous_page %}
         {% if paginator.page == 2 %}
-          <a class="older-posts" href="{{ '/'' | prepend: site.baseurl }}">Newer posts &rarr;</a>
+          <a class="older-posts" href="{{ '/' | prepend: site.baseurl }}">Newer posts &rarr;</a>
         {% else %}
           <a class="older-posts" href="{{ '/page' | prepend: site.baseurl | append: paginator.previous_page }}">Newer posts &rarr;</a>
         {% endif %}
@@ -89,7 +101,7 @@ layout: default
     </nav>
 
 
-    <!-- {{!! After all the posts, we have the previous/next pagination links }}
-    {{pagination}} -->
+
+    {{pagination}}
 
 </main>
