@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Trash Service in Wildwood, Missouri"
-date:   2020-12-06 08:00:09 -0600
+title:  "Trash Service from the Snow Storm February 2021"
+date:   2021-02-22 08:00:09 -0600
 tags: featured
-image: /assets/article_images/Measure.jpg
+image: /assets/article_images/2021snow.jpg
 
 categories: 
 ---
-Since the summer of 2019, trash service in Wildwood Missouri has been provided by Waste Connections. 
+With all the weather we've received over the past couple of weeks, Waste Connections has definitely struggled to keep up. Trash Service should be back to normal as of 2/22/2021, though they will be picking up extra amounts of trash as many customers didn't get serviced last week.
 
-Both trash and recycling services are provided by Waste Connections, your pickup days will vary based on your location.
+If you continue to have problems with getting your trash picked up, please be sure to reach out to Waste Connections via the link at the bottom of this post.
 
-If you're looking for large item pickup, for a couch, or other things, be sure to check with Waste Connections to get that scheduled.
+A couple of tips, make sure you are signed up for their website and phone notifications. For the most part they provided great communication around service in the past week via phone calls, though sometimes those calls came in at very late hours. 
 
 [Waste Connections of Missouri Website](https://www.wasteconnectionsmo.com/)
