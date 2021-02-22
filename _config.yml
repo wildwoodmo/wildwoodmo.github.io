@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "email:"
 email: wildwoodmo@christoc.com
 #blog logo
 logo: "/assets/images/wildwoodmo.png"
-float_logo: true # true, false (default)
+float_logo: false # true, false (default)
 
 # blog cover
 cover: "/assets/images/WildwoodSign.jpg"
@@ -17,7 +17,7 @@ author_image: "/assets/images/ChrisHammond_sq_200.jpg"
 
 paginate:	5
 
-url: 
+url: https://www.wildwoodmo.com
 baseurl: 
 #used to display twitter cards
 twitter_handle: '@christoc'
@@ -43,9 +43,9 @@ social:
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/wildwoodmo/
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
+#  - icon:	github
+#    url:	https://github.com/wildwoodmo/
+#    desc:	Fork me on github
+#    share_url:
+#    share_title:
+#    share_link:
