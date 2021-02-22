@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "email:"
 email: wildwoodmo@christoc.com
 #blog logo
 logo: "/assets/images/wildwoodmo.png"
-float_logo: false # true, false (default)
+float_logo: true # true, false (default)
 
 # blog cover
 cover: "/assets/images/WildwoodSign.jpg"
