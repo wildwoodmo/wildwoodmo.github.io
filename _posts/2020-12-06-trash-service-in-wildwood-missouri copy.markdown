@@ -2,7 +2,7 @@
 layout: post
 title:  "Trash Service in Wildwood, Missouri"
 date:   2020-12-06 08:00:09 -0600
-tags: featured
+tags: 
 image: /assets/article_images/Measure.jpg
 
 categories: 
