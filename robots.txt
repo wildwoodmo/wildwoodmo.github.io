@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://www.wildwoodmo.com/sitemap.xml
