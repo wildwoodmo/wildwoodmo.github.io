@@ -11,8 +11,8 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/WildwoodSign.jpg"
 
-name: 'Chris Hammond'
-author: 'Chris Hammond'
+name: 'WildwoodMO.com'
+author: 'WildwoodMO.com'
 author_image: "/assets/images/ChrisHammond_sq_200.jpg"
 
 paginate:	5
