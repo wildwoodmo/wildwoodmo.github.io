@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to WildwoodMo.com!"
 date:   2020-11-16 12:20:09 -0600
-tags: featured
+tags: 
 image: /assets/article_images/Barn2.jpg
 categories: 
 ---

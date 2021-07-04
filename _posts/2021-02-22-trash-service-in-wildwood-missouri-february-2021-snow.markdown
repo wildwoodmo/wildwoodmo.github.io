@@ -2,7 +2,7 @@
 layout: post
 title:  "Trash Service from the Snow Storm February 2021"
 date:   2021-02-22 08:00:09 -0600
-tags: featured
+tags: 
 image: /assets/article_images/2021snow.jpg
 
 categories: 
