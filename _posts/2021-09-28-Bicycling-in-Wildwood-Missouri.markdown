@@ -3,7 +3,7 @@ layout: post
 title:  "Bicycling in Wildwood Missouri"
 date:   2021-09-28 00:00:09 -0600
 tags: featured
-# image: /assets/article_images/bike-1.jpg
+image: /assets/article_images/WildwoodBike-1.jpg
 
 categories: 
 ---

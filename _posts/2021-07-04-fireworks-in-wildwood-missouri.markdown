@@ -2,7 +2,7 @@
 layout: post
 title:  "Fireworks in Wildwood, Missouri"
 date:   2021-07-04 00:00:09 -0600
-tags: featured
+tags: 
 image: /assets/article_images/4thOfJuly-1.jpg
 
 categories: 
