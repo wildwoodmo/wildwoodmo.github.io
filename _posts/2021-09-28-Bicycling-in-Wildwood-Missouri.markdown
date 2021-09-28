@@ -10,7 +10,7 @@ categories:
 If you're looking for places to ride your bike near St. Louis, you will be hard pressed to find a better area for all types of riding than Wildwood, Missouri.
 
 # Mountain Biking
-Some of the best mountain biking in the St. Louis area can be found right here in Wildwood. Be sure to visit (Bluff View, Zombie, Rock Hollow)[https://gorctrails.com/trails/bluff-view], (Greensfelder)[https://gorctrails.com/trails/greensfelder].
+Some of the best mountain biking in the St. Louis area can be found right here in Wildwood. Be sure to visit [Bluff View, Zombie, Rock Hollow](https://gorctrails.com/trails/bluff-view), [Greensfelder](https://gorctrails.com/trails/greensfelder).
 
 GORC (Gateway Off-road Cyclists) has really put in a lot of effort into the park at Bluff View and is currently building out new trails and kids trails there as well. 
 
@@ -25,5 +25,5 @@ In addition to beautiful roads Wildwood has miles and miles of paved multi-use t
 
 
 # Gravel Grinding
-As Wildwood has grown up, more and more pavement has replaced gravel around the city, but there are still a number of options if you're looking to scratch your gravel itch. The (Al Foster)[https://gorctrails.com/trails/al-foster-trail] is a great local trail, but if you really want to ride gravel your best bet is to park at the LeCave trailhead down on Centaur Road and ride ~4 miles over to the Katy Trail in St. Charles County. From LeCave you can ride about 9 miles (west on the Katy) to the Hamburg trail and get a nice gravel climb up into Busch Wildlife where you can find miles and miles of gravel roads and loops to ride around on.
+As Wildwood has grown up, more and more pavement has replaced gravel around the city, but there are still a number of options if you're looking to scratch your gravel itch. The [Al Foster](https://gorctrails.com/trails/al-foster-trail) is a great local trail, but if you really want to ride gravel your best bet is to park at the LeCave trailhead down on Centaur Road and ride ~4 miles over to the Katy Trail in St. Charles County. From LeCave you can ride about 9 miles (west on the Katy) to the Hamburg trail and get a nice gravel climb up into Busch Wildlife where you can find miles and miles of gravel roads and loops to ride around on.
 
