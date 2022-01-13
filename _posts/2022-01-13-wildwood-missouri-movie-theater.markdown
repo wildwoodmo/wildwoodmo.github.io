@@ -7,7 +7,7 @@ image: /assets/article_images/MovieTheater-1.jpg
 
 categories: 
 ---
-There is one movie theater in Wildwood Missouri, and based on poor customer service experiences with B&B Theaters in Wildwood, it is not our recommendation that you patronize the theaters.
+There is one movie theater in Wildwood Missouri, and based on poor customer service experiences with B&B Theaters in Wildwood, it is not our recommendation that you patronize their theater.
 
 If you purchase tickets for a movie online, you will be charged a service fee. If that movie is for some reason cancelled, they will:
 - Not inform you ahead of time.
