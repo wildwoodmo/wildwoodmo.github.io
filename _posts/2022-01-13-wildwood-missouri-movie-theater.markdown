@@ -13,6 +13,10 @@ If you purchase tickets for a movie online, you will be charged a service fee. I
 - Not inform you ahead of time.
 - Not refund you the full price you paid for the tickets and the service fee.
 
+
+
+
+
 Good luck getting B&B Theaters to respond to you either. While they might actually respond to a "review" posted on Google Maps ratings, they won't go any further than that. 
 
 ## Please check out one of these theaters close to Wildwood:
@@ -25,3 +29,5 @@ Whenever you walk into the B&B Theaters in Wildwood, Missouri you are just about
 
 Please avoid the B&B Theaters in Wildwood.
 
+## Theft from B&B Theaters in Wildwood, Missouri
+We finally got someone to respond to us on Twitter after reaching out to B&B Theaters, and they replied that they will not refund the transaction fees. So ultimately the theater sold tickets to provide a service, cancelled the showing of the movie, and then will not refund the full amount charged.
