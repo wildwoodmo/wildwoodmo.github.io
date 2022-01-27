@@ -13,14 +13,14 @@ cover: "/assets/images/WildwoodSign.jpg"
 
 name: 'WildwoodMO.com'
 author: 'WildwoodMO.com'
-author_image: "/assets/images/ChrisHammond_sq_200.jpg"
+author_image: "/assets/images/wildwoodmo.png"
 
 paginate:	5
 
 url: https://www.wildwoodmo.com
 baseurl: 
 #used to display twitter cards
-twitter_handle: '@christoc'
+twitter_handle: '@wildwoodvelo'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -30,22 +30,9 @@ twitter_handle: '@christoc'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/christoc
+    url:	https://twitter.com/wildwoodvelo
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
 
-#  - icon:	facebook
-#    url:	https://facebook.com/christopherhammond
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
-
-#  - icon:	github
-#    url:	https://github.com/wildwoodmo/
-#    desc:	Fork me on github
-#    share_url:
-#    share_title:
-#    share_link:
