@@ -7,6 +7,12 @@ image: /assets/article_images/MovieTheater-1.jpg
 
 categories: 
 ---
+
+# Update
+After 1 month, we finally got B&B Theaters to process a proper refund. Unsure if we will ever go back.
+
+# Original Post
+
 There is one movie theater in Wildwood Missouri, and based on poor customer service experiences with B&B Theaters in Wildwood, it is not our recommendation that you patronize their theater.
 
 If you purchase tickets for a movie online, you will be charged a service fee. If that movie is for some reason cancelled, they will:
