@@ -16,5 +16,5 @@ Everything you need to know is in this graphic.
 
 If you think CRT is in our schools, and is the biggest threat to our schools, you're paranoid and need to actually do some research to understand that Rockwood doesn't use, or plan to use, CRT. 
 
-CRT is a right wing buzzword that people who like to ban books use to get you worked up over issues that don't exist.
+CRT is a right wing scare tactic that people who like to ban books use to get you worked up over issues that don't exist.
 
