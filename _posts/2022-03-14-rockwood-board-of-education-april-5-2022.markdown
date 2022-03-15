@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Rockwood Board Of Education
+title:  Rockwood Board Of Education Election April 5th, 2022
 date:   2022-03-14 20:00:00 -0600
 tags: featured
 image: /assets/article_images/eagle.jpg
@@ -18,7 +18,7 @@ Be sure to [Watch the League Of Women Voters Candidate Forum](https://tinyurl.co
 
 Research the candidates. Make the right decision for Rockwood.
 
-Vote for Stine and Ryan.
+Vote for Stine and Ryan!
 
 <!-- If you think CRT is in our schools, and is the biggest threat to our schools, you're paranoid and need to actually do some research to understand that Rockwood doesn't use, or plan to use, CRT. 
 
