@@ -10,7 +10,7 @@ If you're looking for information on the candidates for Rockwood School District
 
 Everything you need to know is in this graphic.
 
-[April 5th Candidates](/assets/article_images/rsdmocandidates.jpg)
+![April 5th Candidates](/assets/article_images/rsdmocandidates.jpg)
 
 [More info about the Rockwood NEA - Rockwood National Education Association](https://rnea.org/)
 
