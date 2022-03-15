@@ -1,7 +1,7 @@
 #Site settings 
 title: "WildwoodMo.com - A Wildwood Missouri Community Site."
 description: > # this means to ignore newlines until "email:"
-   A website dedicated to information about the City of Wildwood, Missouri.
+   An unofficial website dedicated to information about the City of Wildwood Missouri.
 
 email: 
 #blog logo
@@ -20,7 +20,7 @@ paginate:	5
 url: https://www.wildwoodmo.com
 baseurl: 
 #used to display twitter cards
-twitter_handle: '@wildwoodvelo'
+twitter_handle: '@Wildw00dMo'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -30,7 +30,7 @@ twitter_handle: '@wildwoodvelo'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/wildwoodvelo
+    url:	https://twitter.com/Wildw00dMo
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
