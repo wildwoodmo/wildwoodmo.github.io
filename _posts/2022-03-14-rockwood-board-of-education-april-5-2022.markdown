@@ -16,7 +16,11 @@ Be sure to [Watch the League Of Women Voters Candidate Forum](https://tinyurl.co
 
 [More info about the Rockwood NEA - Rockwood National Education Association](https://rnea.org/)
 
-If you think CRT is in our schools, and is the biggest threat to our schools, you're paranoid and need to actually do some research to understand that Rockwood doesn't use, or plan to use, CRT. 
+Research the candidates. Make the right decision for Rockwood.
 
-CRT is a right wing scare tactic that people who like to ban books use to get you worked up over issues that don't exist.
+Vote for Stine and Ryan.
+
+<!-- If you think CRT is in our schools, and is the biggest threat to our schools, you're paranoid and need to actually do some research to understand that Rockwood doesn't use, or plan to use, CRT. 
+
+CRT is a right wing scare tactic that people who like to ban books use to get you worked up over issues that don't exist. -->
 
