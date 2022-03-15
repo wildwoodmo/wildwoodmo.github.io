@@ -3,7 +3,7 @@ title: "WildwoodMo.com - A Wildwood Missouri Community Site."
 description: > # this means to ignore newlines until "email:"
    A website dedicated to information about the City of Wildwood, Missouri.
 
-email: wildwoodmo@christoc.com
+email: 
 #blog logo
 logo: "/assets/images/wildwoodmo.png"
 float_logo: true # true, false (default)
