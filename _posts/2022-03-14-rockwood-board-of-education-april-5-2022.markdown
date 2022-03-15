@@ -5,9 +5,14 @@ date:   2022-03-14 20:00:00 -0600
 tags: featured
 image: /assets/article_images/rsdmocandidates.jpg
 ---
+
 If you're looking for information on the candidates for Rockwood School District in Missouri's election to the board of education on April 5th, 2022, look no further!
 
-Everything you need to know is in the graphic above. [More info about the Rockwood NEA - Rockwood National Education Association](https://rnea.org/)
+Everything you need to know is in this graphic.
+
+{% picture /assets/article_images/rsdmocandidates.jpg %}
+
+[More info about the Rockwood NEA - Rockwood National Education Association](https://rnea.org/)
 
 If you think CRT is in our schools, and is the biggest threat to our schools, you're paranoid and need to actually do some research to understand that Rockwood doesn't use, or plan to use, CRT. 
 
