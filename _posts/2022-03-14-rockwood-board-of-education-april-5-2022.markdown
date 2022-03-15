@@ -3,7 +3,7 @@ layout: post
 title:  Rockwood Board Of Education
 date:   2022-03-14 20:00:00 -0600
 tags: featured
-image: /assets/article_images/rsdmocandidates.jpg
+image: /assets/article_images/eagle.jpg
 ---
 
 If you're looking for information on the candidates for Rockwood School District in Missouri's election to the board of education on April 5th, 2022, look no further!
@@ -11,6 +11,8 @@ If you're looking for information on the candidates for Rockwood School District
 Everything you need to know is in this graphic.
 
 ![April 5th Candidates](/assets/article_images/rsdmocandidates.jpg)
+
+Be sure to [Watch the League Of Women Voters Candidate Forum](https://tinyurl.com/2p8wdec4) an informative session of 4 of the 5 candidates.
 
 [More info about the Rockwood NEA - Rockwood National Education Association](https://rnea.org/)
 
