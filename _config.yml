@@ -14,6 +14,7 @@ cover: "/assets/images/WildwoodSign.jpg"
 name: 'WildwoodMO.com'
 author: 'WildwoodMO.com'
 author_image: "/assets/images/wildwoodmo.png"
+google_analytics: UA-69145-49
 
 paginate:	5
 
