@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Wildlife in Wildwood Missouri
-date:   2022-07-27 11:00:00 -0600
+date:   2022-07-26 11:00:00 -0600
 tags: featured
 image: /assets/article_images/bunnies.jpg
 ---
