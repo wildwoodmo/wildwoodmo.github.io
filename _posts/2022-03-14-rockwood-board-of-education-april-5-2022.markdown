@@ -2,7 +2,7 @@
 layout: post
 title:  Rockwood Board Of Education Election April 5th, 2022
 date:   2022-03-14 20:00:00 -0600
-tags: featured
+tags: 
 image: /assets/article_images/eagle.jpg
 ---
 

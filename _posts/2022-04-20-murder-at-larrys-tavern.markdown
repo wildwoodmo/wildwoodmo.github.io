@@ -2,7 +2,7 @@
 layout: post
 title:  Murder at Larry's Tavern
 date:   2022-04-20 07:00:00 -0600
-tags: featured
+tags: 
 image: /assets/article_images/LarrysTavern.jpg
 ---
 
