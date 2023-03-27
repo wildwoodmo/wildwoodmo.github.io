@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Get Your Little Ones Skating&#58; Chesterfield Hockey Association and Maryville University Hockey Center Near Wildwood, Missouri
-date:   2023-03-27 09:00:00 -0600
+date:   2023-03-26 20:00:00 -0600
 tags: featured
 image: /assets/article_images/hockey.jpg
 ---
