@@ -2,7 +2,7 @@
 layout: post
 title:  Voting information for Wildwood, Missouri
 date:   2022-10-26 09:00:00 -0600
-tags: featured
+tags: 
 image: /assets/article_images/vote.jpg
 ---
 

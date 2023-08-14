@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kayaking Near Wildwood, Missouri
-date:   2023-08-14 09:00:00 -0600
+date:   2023-08-13 20:00:00 -0600
 tags: featured
 image: /assets/article_images/Kayak-1.jpg
 ---
