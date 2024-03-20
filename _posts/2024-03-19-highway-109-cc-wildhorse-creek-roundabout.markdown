@@ -3,7 +3,7 @@ layout: post
 title: Roundabout at Wildhorse Creek and Highway 109
 date:   2024-03-10 20:00:00 -0600
 tags: featured
-image: /assets/article_images/hwy109roundabout.jpg
+image: /assets/article_images/hwy109-roundabout.jpg
 ---
 The Missouri Department of Transportation (MoDOT) has unveiled plans for a significant infrastructure project aimed at enhancing traffic flow and safety in St. Louis County. Central to this initiative is the construction of a two-lane roundabout at the bustling intersection of Route 109 and Route CC. This development comes in response to the area's growth and the resulting increase in traffic congestion.
 
