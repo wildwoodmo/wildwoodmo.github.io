@@ -3,7 +3,8 @@ layout: post
 title: "Wildwood's Attack on Christmas - Lighting Ordinance Coincides with Global Eclipse Celebrations"
 date:   2024-04-06 20:00:00 -0600
 tags: featured
-image: /assets/article_images/christmaslights.jpg
+image: /assets/article_images/chrismastlights.jpg
+
 ---
 **Wildwood, April 5, 2024** - In a move that has sparked widespread debate and captured the attention of holiday enthusiasts and civil liberty groups alike, the City of Wildwood is poised to lead an unprecedented charge against traditional Christmas celebrations. The city council is scheduled to vote on a highly contentious holiday lighting ordinance this Monday, April 8th, a day when the rest of the world will be turning its eyes skyward to witness a rare and spectacular solar eclipse.
 
