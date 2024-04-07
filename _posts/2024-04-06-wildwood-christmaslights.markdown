@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wildwood's Controversial Christmas Lighting Ordinance Coincides with Global Eclipse Celebrations
+title: "Wildwood's Attack on Christmas - Lighting Ordinance Coincides with Global Eclipse Celebrations"
 date:   2024-04-06 20:00:00 -0600
 tags: featured
 image: /assets/article_images/christmaslights.jpg
@@ -21,7 +21,7 @@ As Monday approaches opponents of the ordinance are mobilizing. The outcome of t
 
 [And send your comments for the meeting here](https://www.cityofwildwood.com/FormCenter/Planning-Department-5/Meeting-Comment-Form-48?fbclid=IwAR0oiGBBjuIp0iwvzcc6yXyHjgRfHfLDXadn5DjibaeBLVG2z99kLoIbs00_aem_AaGaUdXK74xF-JVvVAt4OLGJN6fAe08OtElwgIG1y3kSQ17S-HH5mSBTdS8q4DUKN0zJy_3kQ6wXcv3yVAGmQHGb) though it would be better if you deliver those comments in person at the meeting.
 
-Meeting Info:
-City Hall Council Chambers
-16860 Main Street, Wildwood, MO
-Monday, April 8, 2024 6:30 P.M.
+**Meeting Info:**  
+City Hall Council Chambers  
+16860 Main Street, Wildwood, MO  
+Monday, April 8, 2024 6:30 P.M.  
