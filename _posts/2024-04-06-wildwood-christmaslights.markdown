@@ -29,3 +29,6 @@ Monday, April 8, 2024 6:30 P.M.
 
 ## Contact your City Council Rep
 [Find them listed here](https://www.cityofwildwood.com/150/City-Council)
+
+### Update 4/7/2024
+Word is that an ammendmant will be introduced to limit this to only multifamily properties (apartments) and remove the Kelvin restrictions. No guarantees that happens or passes, so continue to fight against the changes to the ordinance.
