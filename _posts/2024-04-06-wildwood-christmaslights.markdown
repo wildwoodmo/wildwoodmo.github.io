@@ -26,3 +26,6 @@ As Monday approaches opponents of the ordinance are mobilizing. The outcome of t
 City Hall Council Chambers  
 16860 Main Street, Wildwood, MO  
 Monday, April 8, 2024 6:30 P.M.  
+
+## Contact your City Council Rep
+[Find them listed here](https://www.cityofwildwood.com/150/City-Council)
