@@ -37,5 +37,5 @@ Word is that an ammendmant will be introduced to limit this to only multifamily 
 The City Council shot down both the original ordinance and the amended version on Monday night. Lights are safe in Wildwood, for now. Unless of course you're a high school (or any business) and want to put up an LED sign. The city won't allow that. 
 
 ### Update 4/14/2024
-Someone in Wildwood is offended because some apartment dwellers are decorating their patios/decks. Rather than talking to the apartment complex about addressing it themselves, they feel it makes more sense for the City to waste resources in doing so. 
+Someone in Wildwood is offended because some apartment dwellers are decorating their patios/decks. Rather than talking to the apartment complex about addressing it themselves, they feel it makes more sense for the City to waste resources in doing so. [Check out some of the crazy discussion at the City Council meeting from 4/8/2024](https://www.youtube.com/watch?v=lky3D5fjb2A)
 
